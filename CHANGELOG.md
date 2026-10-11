@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-17)
+## Unreleased (2026-10-11)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`3560347`](https://github.com/stdlib-js/stdlib/commit/3560347e7c8e720b4fa1fab2a97315f5ee4c188b) - **test:** migrate `constants/float32/ln-ten` to ULP-based assertions [(#16059)](https://github.com/stdlib-js/stdlib/pull/16059) _(by Philipp Burckhardt, Athan Reines)_
 -   [`4154fdc`](https://github.com/stdlib-js/stdlib/commit/4154fdcb3d19ce74a7210ddb494dd662bdb1f012) - **chore:** update examples and add keyword [(#12967)](https://github.com/stdlib-js/stdlib/pull/12967) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
